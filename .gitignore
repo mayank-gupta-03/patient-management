@@ -1,2 +1,9 @@
 /db_volumes/
 /.idea/
+*.iml
+*.iws
+*.ipr
+
+# Maven
+**/target/
+.mvn/wrapper/maven-wrapper.jar
